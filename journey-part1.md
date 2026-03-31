@@ -2,6 +2,7 @@
 title: "What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 1)"
 date: 2025-06-03
 description: "Balancing a full-time job with the pursuit of coding skills has been a challenging yet rewarding journey. In this two-part series, I share my experiences, challenges, and strategies for managing time, learning new programming languages, and maintaining motivation."
+image: 
 ---
 
 # What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 1)

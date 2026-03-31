@@ -2,6 +2,7 @@
 title: "What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 2)"
 date: 2025-06-10
 description: "In the second part of this series, I share the strategies that have helped me maintain motivation, manage mental fatigue, and build sustainable habits while balancing a full-time job and learning to code."
+image: mecartoon.png
 ---
 
 # What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 2)
