@@ -2,7 +2,7 @@
 title: "What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 3)"
 date: 2025-06-17
 description: "In the third part of this series, I share the mental and emotional resilience required to balance a full-time job while learning to code, including strategies for staying motivated, managing distractions, and coping with grief."
-image: me-in-spain-2024.png
+image: images/me-in-spain-2024.png
 ---
 
 # What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 3)
@@ -83,7 +83,7 @@ Those were some of the hardest months of my life. I didn’t make huge progress.
 
 And when I couldn’t? I didn’t force it. Grace reminded me that growth and healing are not always linear and that’s okay. After all, I’m only human.
 
-![me in Spain in 2024](me-in-spain-2024.png)
+![me in Spain in 2024](images/me-in-spain-2024.png)
 
 ## What Helped Me Most
 

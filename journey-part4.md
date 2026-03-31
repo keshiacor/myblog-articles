@@ -2,12 +2,12 @@
 title: "What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 4)"
 date: 2025-07-09
 description: "In the final part of this series, I share the wins and milestones I’ve achieved after 18 months of balancing a full-time job while getting back into coding, along with my plans for the future."
-image: stellagothergrooveback.png
+image: images/stellagothergrooveback.png
 ---
 
 # The Wins: “Stella Got Her Groove Back” 💃🏽
 
-![in front of Madrid museum](stellagothergrooveback.png)
+![in front of Madrid museum](images/stellagothergrooveback.png)
 
 ### What I Learned After 18 Months of Getting Back to Coding While Working Full Time (Part 4)
 

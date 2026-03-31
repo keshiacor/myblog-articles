@@ -2,7 +2,7 @@
 title: "What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 2)"
 date: 2025-06-10
 description: "In the second part of this series, I share the strategies that have helped me maintain motivation, manage mental fatigue, and build sustainable habits while balancing a full-time job and learning to code."
-image: mecartoon.png
+image: images/mecartoon.png
 ---
 
 # What I’ve Learned After 18 Months of Getting Back To Coding While Working Full-Time (Part 2)
@@ -16,7 +16,7 @@ But surviving the grind is only half the story. The real question became: how do
 The answer wasn’t just more effort — it was smarter effort. In this second part, I want to get real about how I learned to pace myself, protect my energy, and build sustainable habits without losing my momentum (or my mind).
 
 Let’s dive into what’s been helping me stay in the game — and sane.
-![girl sweating in front of a computer](mecartoon.png)
+![girl sweating in front of a computer](images/mecartoon.png)
 
 ## ❌ Introducing No-Coding Weekends
 
@@ -51,7 +51,7 @@ It’s where I brain-dump everything I want to learn or build without pressure a
 
 As the year progresses, I keep revisiting it. Anything that is not critical or a high priority goes into the wishlist. When I do have bandwidth, I can pick what excites me instead of spiraling into decision fatigue.
 
-![wishlist](wishlist.png)
+![wishlist](images/wishlist.png)
 
 I can’t do it all and certainly not all at once! As such, I had to be selective with where I invested my energy. I have to say, though, it’s kind of nice to move some items into the ‘Done’ column 😏.
 
