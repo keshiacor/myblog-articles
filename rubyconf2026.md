@@ -17,8 +17,10 @@ The Scholars and Guides program, created by Ruby Central, pairs aspiring or new 
 
 It is definitely a program I'd recommend to anyone joining the Ruby ecosystem. Beyond the mentorship itself, I got to meet other scholars who were either new developers or relatively new to Ruby. One of my favorite parts of the week was simply hearing everyone's story. We all arrived through different paths, had different experiences, and were at different stages of our careers, yet we all shared the same excitement for learning and building.
 
-![RubyConf Scholars & Guides](/images/20260716_133006.jpg)
-_RubyConf 2026 Scholars & Guides cohort_
+<figure style="text-align: center;">
+  <img src="/images/20260716_133006.jpg" alt="RubyConf 2026 Scholars and Guides cohort posing together at the conference" />
+  <figcaption>RubyConf 2026 Scholars &amp; Guides cohort</figcaption>
+</figure>
 
 As a first time attendee, I spent my days bouncing between talks and workshops from morning until late afternoon. There was always something happening. I also got to "disvirtualize" a few people I had only ever seen through a screen, including folks from WNB.rb living in different countries.
 
@@ -35,8 +37,10 @@ As soon as that theme was announced, I knew exactly what I wanted to build.
 I built a gem that analyzes salsa dancers' areas for improvement and "offenses" while dancing. Building the gem was fun, but it wasn't the part that challenged me the most.
 The real challenge was standing in front of hundreds of developers I'd never met before and giving my very first lightning talk titled: What Salsa dancing taught me about beautiful Ruby.
 
-![Me presenting at RubyConf](/images/6E8942BA-DA64-480B-959B-68C73B905070_1_105_c.jpeg)
-_Giving my first lightning talk: "What Salsa dancing taught me about beautiful Ruby"_
+<figure style="text-align: center;">
+  <img src="/images/6E8942BA-DA64-480B-959B-68C73B905070_1_105_c.jpeg" alt="Keshia presenting her lightning talk at RubyConf 2026 on stage" />
+  <figcaption>Giving my first lightning talk: &ldquo;What Salsa dancing taught me about beautiful Ruby&rdquo;</figcaption>
+</figure>
 
 For months, even at local meetups, I'd wondered when I'd finally find the courage to present. Don't get me wrong, I've spoken in public before. But speaking about something where I don't consider myself an expert was a completely different experience, and a humbling one.
 
@@ -52,8 +56,10 @@ As software developers, programmers, and problem solvers, it's always been about
 
 The human side of the equation, how we fit, how we reframe, and how we remain connected to our humanity, is what I enjoyed hearing about the most. Because let's be honest, these days all we hear about is AI, velocity, and the infamous "deliver more value" (hatchoum: probably at a rate where our customers won't even be able to keep up and will end up feeling incredibly overwhelmed... but that's a conversation for another time).
 
-![RubyConf 2026 panel](images/7D916AB8-DF86-43E6-89D8-CDE7FEE9539A_1_105_c.jpeg)
-_Panel discussion at RubyConf 2026_
+<figure style="text-align: center;">
+  <img src="images/7D916AB8-DF86-43E6-89D8-CDE7FEE9539A_1_105_c.jpeg" alt="Panel of speakers on stage during a discussion at RubyConf 2026" />
+  <figcaption>Panel discussion at RubyConf 2026</figcaption>
+</figure>
 
 For anyone considering attending RubyConf, I'd say do it.
 And if you're new to Ruby, I'd recommend applying to the Scholars and Guides program even more. The experience is ultimately what you make of it, but you'll find yourself surrounded by people who remember what it's like to be the new person in the room.
@@ -71,5 +77,7 @@ Hopefully this was the first of many RubyConfs!
 
 And until next year, if you missed this one, keep an eye out for the recordings on YouTube. Better yet, go find your local Ruby meetup. The Ruby community is much bigger than one conference, and that's probably one of my biggest takeaways from this whole experience.
 
-![RubyConf 2026 wrapping it up](images/46D4E1CE-A3EC-415C-83D8-749DC1497A29_1_105_c.jpeg)
-_Wrapping up an unforgettable week at RubyConf 2026_
+<figure style="text-align: center;">
+  <img src="images/46D4E1CE-A3EC-415C-83D8-749DC1497A29_1_105_c.jpeg" alt="Keshia in front of the RubyConf posterat the end of RubyConf 2026" />
+  <figcaption>Wrapping up an unforgettable week at RubyConf 2026</figcaption>
+</figure>
