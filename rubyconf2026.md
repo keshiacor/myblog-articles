@@ -5,6 +5,8 @@ description: "My experiences and takeaways from attending RubyConf 2026 as a sch
 image:
 ---
 
+# Personal Reflections on RubyConf 2026
+
 It’s now been a full week since I’ve returned from RubyConf... and I have a few things to share.
 
 This year, I decided to attend RubyConf and was accepted as a scholar. Through that program, I got to attend the conference and meet others who are relatively new to the Ruby ecosystem. From meeting Matz in person, to hearing stories about past RubyConfs, to hackathons and shared meals, RubyConf is definitely an experience I’d recommend.
@@ -16,6 +18,7 @@ The Scholars and Guides program, created by Ruby Central, pairs aspiring or new 
 It is definitely a program I'd recommend to anyone joining the Ruby ecosystem. Beyond the mentorship itself, I got to meet other scholars who were either new developers or relatively new to Ruby. One of my favorite parts of the week was simply hearing everyone's story. We all arrived through different paths, had different experiences, and were at different stages of our careers, yet we all shared the same excitement for learning and building.
 
 ![RubyConf Scholars & Guides](/images/20260716_133006.jpg)
+_RubyConf 2026 Scholars & Guides cohort_
 
 As a first time attendee, I spent my days bouncing between talks and workshops from morning until late afternoon. There was always something happening. I also got to "disvirtualize" a few people I had only ever seen through a screen, including folks from WNB.rb living in different countries.
 
@@ -33,6 +36,7 @@ I built a gem that analyzes salsa dancers' areas for improvement and "offenses" 
 The real challenge was standing in front of hundreds of developers I'd never met before and giving my very first lightning talk titled: What Salsa dancing taught me about beautiful Ruby.
 
 ![Me presenting at RubyConf](/images/6E8942BA-DA64-480B-959B-68C73B905070_1_105_c.jpeg)
+_Giving my first lightning talk: "What Salsa dancing taught me about beautiful Ruby"_
 
 For months, even at local meetups, I'd wondered when I'd finally find the courage to present. Don't get me wrong, I've spoken in public before. But speaking about something where I don't consider myself an expert was a completely different experience, and a humbling one.
 
@@ -49,6 +53,7 @@ As software developers, programmers, and problem solvers, it's always been about
 The human side of the equation, how we fit, how we reframe, and how we remain connected to our humanity, is what I enjoyed hearing about the most. Because let's be honest, these days all we hear about is AI, velocity, and the infamous "deliver more value" (hatchoum: probably at a rate where our customers won't even be able to keep up and will end up feeling incredibly overwhelmed... but that's a conversation for another time).
 
 ![RubyConf 2026 panel](images/7D916AB8-DF86-43E6-89D8-CDE7FEE9539A_1_105_c.jpeg)
+_Panel discussion at RubyConf 2026_
 
 For anyone considering attending RubyConf, I'd say do it.
 And if you're new to Ruby, I'd recommend applying to the Scholars and Guides program even more. The experience is ultimately what you make of it, but you'll find yourself surrounded by people who remember what it's like to be the new person in the room.
@@ -67,3 +72,4 @@ Hopefully this was the first of many RubyConfs!
 And until next year, if you missed this one, keep an eye out for the recordings on YouTube. Better yet, go find your local Ruby meetup. The Ruby community is much bigger than one conference, and that's probably one of my biggest takeaways from this whole experience.
 
 ![RubyConf 2026 wrapping it up](images/46D4E1CE-A3EC-415C-83D8-749DC1497A29_1_105_c.jpeg)
+_Wrapping up an unforgettable week at RubyConf 2026_
