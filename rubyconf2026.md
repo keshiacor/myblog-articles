@@ -18,7 +18,7 @@ The Scholars and Guides program, created by Ruby Central, pairs aspiring or new 
 It is definitely a program I'd recommend to anyone joining the Ruby ecosystem. Beyond the mentorship itself, I got to meet other scholars who were either new developers or relatively new to Ruby. One of my favorite parts of the week was simply hearing everyone's story. We all arrived through different paths, had different experiences, and were at different stages of our careers, yet we all shared the same excitement for learning and building.
 
 <figure style="text-align: center;">
-  <img src="/images/20260716_133006.jpg" alt="RubyConf 2026 Scholars and Guides cohort posing together at the conference" />
+  <img src="/images/20260716_133006.jpg" alt="RubyConf 2026 Scholars and Guides cohort posing together at the conference" style="display: block; margin: 0 auto;" />
   <figcaption>RubyConf 2026 Scholars &amp; Guides cohort</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ I built a gem that analyzes salsa dancers' areas for improvement and "offenses" 
 The real challenge was standing in front of hundreds of developers I'd never met before and giving my very first lightning talk titled: What Salsa dancing taught me about beautiful Ruby.
 
 <figure style="text-align: center;">
-  <img src="/images/6E8942BA-DA64-480B-959B-68C73B905070_1_105_c.jpeg" alt="Keshia presenting her lightning talk at RubyConf 2026 on stage" />
+  <img src="/images/6E8942BA-DA64-480B-959B-68C73B905070_1_105_c.jpeg" alt="Keshia presenting her lightning talk at RubyConf 2026 on stage" style="display: block; margin: 0 auto;" />
   <figcaption>Giving my first lightning talk: &ldquo;What Salsa dancing taught me about beautiful Ruby&rdquo;</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ As software developers, programmers, and problem solvers, it's always been about
 The human side of the equation, how we fit, how we reframe, and how we remain connected to our humanity, is what I enjoyed hearing about the most. Because let's be honest, these days all we hear about is AI, velocity, and the infamous "deliver more value" (hatchoum: probably at a rate where our customers won't even be able to keep up and will end up feeling incredibly overwhelmed... but that's a conversation for another time).
 
 <figure style="text-align: center;">
-  <img src="images/7D916AB8-DF86-43E6-89D8-CDE7FEE9539A_1_105_c.jpeg" alt="Panel of speakers on stage during a discussion at RubyConf 2026" />
+  <img src="images/7D916AB8-DF86-43E6-89D8-CDE7FEE9539A_1_105_c.jpeg" alt="Panel of speakers on stage during a discussion at RubyConf 2026" style="display: block; margin: 0 auto;" />
   <figcaption>Panel discussion at RubyConf 2026</figcaption>
 </figure>
 
@@ -78,6 +78,6 @@ Hopefully this was the first of many RubyConfs!
 And until next year, if you missed this one, keep an eye out for the recordings on YouTube. Better yet, go find your local Ruby meetup. The Ruby community is much bigger than one conference, and that's probably one of my biggest takeaways from this whole experience.
 
 <figure style="text-align: center;">
-  <img src="images/46D4E1CE-A3EC-415C-83D8-749DC1497A29_1_105_c.jpeg" alt="Keshia in front of the RubyConf posterat the end of RubyConf 2026" />
+  <img src="images/46D4E1CE-A3EC-415C-83D8-749DC1497A29_1_105_c.jpeg" alt="Keshia in front of the RubyConf poster at the end of RubyConf 2026" style="display: block; margin: 0 auto;" />
   <figcaption>Wrapping up an unforgettable week at RubyConf 2026</figcaption>
 </figure>
